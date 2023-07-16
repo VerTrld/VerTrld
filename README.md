@@ -7,6 +7,13 @@
 
 - ⚡ Fun fact **an I am a fresh graduate in Computer Engineering, and I have a passion for both Computer Hardware and Software Development.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/jtoralde08/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
+<a href="https://discord.com/#ver0999" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/></a>
+
+
+</p>
 
 <h3 align="left">Hobbies:</h3>
 <p align="left">
