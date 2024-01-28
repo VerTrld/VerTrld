@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jollever M. Toralde</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **the Laravel framework, and in the future, I plan to learn Python, Node.js, and more.**
+- 🌱 I’m currently learning **NextJS framework, and in the future, I plan to learn Python, Node.js, and more.**
 
 - 📫 How to reach me **jtoralde08@gmail.com**
 
-- ⚡ Fun fact **an I am a fresh graduate in Computer Engineering, and I have a passion for both Computer Hardware and Software Development.**
+- ⚡ Fun fact **I am a fresh graduate in Computer Engineering, and I have a passion for both Computer Hardware and Software Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
